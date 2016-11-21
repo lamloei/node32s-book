@@ -1,0 +1,1 @@
+;C:\Python27;C:\msys32\usr\bin;C:\msys32\mingw32\bin;C:\msys32\opt\xtensa-esp32-elf\bin

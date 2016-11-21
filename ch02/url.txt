@@ -1,0 +1,4 @@
+https://www.arduino.cc
+https://www.python.org
+https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20160816.zip
+https://gist.github.com/prasertsakd/78c561dce60b028fa6c7bcbd38f71894
