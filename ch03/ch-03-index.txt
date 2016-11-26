@@ -1,0 +1,7 @@
+﻿บทที่ 3 Node32s โค้ดโปรแกรมด้วย Platformio
+3.1 วิธีโค้ดโปรแกรมลง Node32s
+3.2 วิธีติดตั้ง Platformio
+3.3 วิธีติดตั้ง LLVM
+3.4 โปรแกรมแรก printf Hello world
+3.5 ไฟกระพริบแบบ wiring
+3.6 ไฟล์ตัวอย่าง esp-idf

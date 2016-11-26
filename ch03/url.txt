@@ -1,0 +1,3 @@
+http://platformio.org/
+http://llvm.org/
+https://github.com/espressif/esp-idf/tree/master/examples
